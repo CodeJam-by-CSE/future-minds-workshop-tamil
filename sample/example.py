@@ -10,4 +10,6 @@ print(f"Total: {total}")
 
 print(f"Subtract values main: {calc_subtract(5, 3)}")
 
+print("Testing conflicts from main")
+
 
