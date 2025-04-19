@@ -2,7 +2,10 @@
 def find_total(a, b):
     return a + b
 
-total = find_total(1, 2)
+def subtract_value(a, b):
+    return a - b
+
+total = find_total(1, 5)
 print(f"Total: {total}")
 
 
